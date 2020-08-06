@@ -1,0 +1,169 @@
+'2016':
+    ST_tW_antitop_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8/kcormier-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Kyle
+        site: T2_CH_CSCS
+    TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8/kcormier-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Kyle
+        site: T2_CH_CSCS
+    TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8/umolinat-TopNanoAODv6p1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+    TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/umolinat-TopNanoAODv6p1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+    TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/umolinat-TopNanoAODv6p1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+'2017':
+    ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTTo2L2Nu_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTToHadronic_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/kcormier-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM
+        responsible: Kyle
+        site: T2_CH_CSCS
+    TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8/umolinat-TopNanoAODv6p1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTToHadronic_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+    TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/umolinat-TopNanoAODv6p1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+    TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8/umolinat-TopNanoAODv6p1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTToSemiLeptonic_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM
+        responsible: Umberto
+        site: T2_CH_CSCS
+    TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8:
+        comment: This main dataset and its extension are stored in the same Dataset,
+            but under different folders
+        dbs: /TTbb_4f_TTTo2L2Nu_TuneCP5-Powheg-Openloops-Pythia8/kcormier-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTbb_Powheg_Openloops/asaibel-TTTo2L2Nu_RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1-5f646ecd4e1c7a39ab0ed099ff55ceb9/USER
+        - /TTbb_Powheg_Openloops/asaibel-TTTo2L2Nu_RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1_ext1-5f646ecd4e1c7a39ab0ed099ff55ceb9/USER
+        responsible: Kyle
+        site: T2_CH_CSCS
+    TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/kcormier-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Kyle
+        site: T2_CH_CSCS
+    TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/kcormier-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTbb_Powheg_Openloops/mhorzela-RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1-corrected-5f646ecd4e1c7a39ab0ed099ff55ceb9/USER
+        responsible: Kyle
+        site: T2_CH_CSCS
+'2018':
+    ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v3/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v3/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTTo2L2Nu_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Enrique
+        site: T2_CH_CERN
+    TTToHadronic_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/swertz-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        - /TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v2/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
+    TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/swertz-TopNanoAODv6p1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
+    TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8_ext3:
+        dbs: /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/swertz-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTToSemiLeptonic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext3-v2/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
+    TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8/swertz-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTbb_4f_TTTo2l2nu_TuneCP5-Powheg-Openloops-Pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
+    TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/swertz-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTbb_4f_TTToHadronic_TuneCP5-Powheg-Openloops-Pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
+    TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8:
+        dbs: /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/swertz-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Sebastien
+        site: T2_CH_CSCS
