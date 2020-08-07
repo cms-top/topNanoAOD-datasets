@@ -111,6 +111,217 @@
         - /TTbb_Powheg_Openloops/mhorzela-RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1-corrected-5f646ecd4e1c7a39ab0ed099ff55ceb9/USER
         responsible: Kyle
         site: T2_CH_CSCS
+    ## DATA
+    DoubleEG_Run2017B:
+        dbs: /DoubleEG/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleEG/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleEG_Run2017C:
+        dbs: /DoubleEG/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleEG/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleEG_Run2017D:
+        dbs: /DoubleEG/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleEG/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleEG_Run2017E:
+        dbs: /DoubleEG/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleEG/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleEG_Run2017F:
+        dbs: /DoubleEG/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleEG/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleMuon_Run2017B:
+        dbs: /DoubleMuon/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleMuon/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleMuon_Run2017C:
+        dbs: /DoubleMuon/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleMuon/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleMuon_Run2017D:
+        dbs: /DoubleMuon/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleMuon/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleMuon_Run2017E:
+        dbs: /DoubleMuon/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleMuon/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    DoubleMuon_Run2017F:
+        dbs: /DoubleMuon/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /DoubleMuon/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    JetHT_Run2017B:
+        dbs: /JetHT/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /JetHT/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    JetHT_Run2017C:
+        dbs: /JetHT/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /JetHT/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    JetHT_Run2017D:
+        dbs: /JetHT/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /JetHT/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    JetHT_Run2017E:
+        dbs: /JetHT/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /JetHT/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    JetHT_Run2017F:
+        dbs: /JetHT/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /JetHT/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MET_Run2017B:
+        dbs: /MET/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MET/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MET_Run2017C:
+        dbs: /MET/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MET/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MET_Run2017D:
+        dbs: /MET/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MET/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MET_Run2017E:
+        dbs: /MET/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MET/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MET_Run2017F:
+        dbs: /MET/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MET/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MuonEG_Run2017B:
+        dbs: /MuonEG/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MuonEG/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MuonEG_Run2017C:
+        dbs: /MuonEG/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MuonEG/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MuonEG_Run2017D:
+        dbs: /MuonEG/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MuonEG/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MuonEG_Run2017E:
+        dbs: /MuonEG/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MuonEG/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    MuonEG_Run2017F:
+        dbs: /MuonEG/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /MuonEG/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleElectron_Run2017B:
+        dbs: /SingleElectron/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleElectron/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleElectron_Run2017C:
+        dbs: /SingleElectron/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleElectron/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleElectron_Run2017D:
+        dbs: /SingleElectron/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleElectron/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleElectron_Run2017E:
+        dbs: /SingleElectron/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleElectron/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleElectron_Run2017F:
+        dbs: /SingleElectron/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleElectron/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleMuon_Run2017B:
+        dbs: /SingleMuon/piedavid-Run2017B-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleMuon/Run2017B-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleMuon_Run2017C:
+        dbs: /SingleMuon/piedavid-Run2017C-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleMuon/Run2017C-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleMuon_Run2017D:
+        dbs: /SingleMuon/piedavid-Run2017D-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleMuon/Run2017D-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleMuon_Run2017E:
+        dbs: /SingleMuon/piedavid-Run2017E-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleMuon/Run2017E-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
+    SingleMuon_Run2017F:
+        dbs: /SingleMuon/piedavid-Run2017F-31Mar2018-v1_TopNanoAODv6-1-1_2017-9721c24ccc7f925c513e24ff74941177/USER
+        parents:
+        - /SingleMuon/Run2017F-31Mar2018-v1/MINIAOD
+        responsible: Pieter
+        site: T2_BE_UCL
 '2018':
     ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
         dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
