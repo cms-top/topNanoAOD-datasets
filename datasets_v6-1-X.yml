@@ -41,6 +41,42 @@
         - /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
         responsible: Umberto
         site: T2_CH_CSCS
+    QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_15to20_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_20to30_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_30to80_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_80to170_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_backup_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_170to250_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
 '2017':
     ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
         dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
@@ -278,40 +314,10 @@
         - /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14_ext1-v2/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
-    QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+    QCD_Pt-15to20_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-15to20_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
-        - /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        - /QCD_Pt-15to20_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
     QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8:
@@ -320,40 +326,10 @@
         - /QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
-    QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
     QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8:
         dbs: /QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
         - /QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
     QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8:
@@ -362,10 +338,106 @@
         - /QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
+    QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
     QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
         dbs: /QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
         - /QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
     QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
@@ -380,16 +452,10 @@
         - /QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
-    QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+    QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
-        - /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
-        responsible: Pieter
-        site: T2_BE_UCL
-    QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
-        dbs: /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
-        parents:
-        - /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        - /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
     ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-amcatnlo-pythia8:
@@ -1160,3 +1226,39 @@
         - /TTbb_4f_TTToSemiLeptonic_TuneCP5-Powheg-Openloops-Pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
         responsible: Sebastien
         site: T2_CH_CSCS
+    QCD_Pt_15to20_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_15to20_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_15to20_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_20to30_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_30to80_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
