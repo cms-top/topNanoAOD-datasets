@@ -380,6 +380,12 @@
         - /QCD_Pt_80to170_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
+    QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /QCD_Pt_170to250_bcToE_TuneCP5_13TeV_pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
     QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8:
         dbs: /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
