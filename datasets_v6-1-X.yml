@@ -77,6 +77,1139 @@
         - /QCD_Pt_250toInf_bcToE_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
+    DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        comment: Not completely processed yet
+        dbs: /DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-10to50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-1200to2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-1200to2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-1200to2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-2500toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-2500toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-2500toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-600to800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-600to800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-600to800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_HT-800to1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-800to1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-800to1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-5to50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-5to50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-5to50_HT-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-5to50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-5to50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-5to50_HT-200to400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-5to50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-5to50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-5to50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-5to50_HT-600toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-5to50_HT-600toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-5to50_HT-600toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DYJetsToLL_M-5to50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-5to50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /DYJetsToLL_M-5to50_HT-70to100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GJets_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GJets_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GJets_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GJets_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GJets_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GJets_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GJets_HT-40To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-40To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GJets_HT-40To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GJets_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GJets_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluHToZZTo4L_M125_13TeV_powheg2_JHUgenV6_pythia8:
+        dbs: /GluGluHToZZTo4L_M125_13TeV_powheg2_JHUgenV6_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluHToZZTo4L_M125_13TeV_powheg2_JHUgenV6_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-120to170_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-15to20_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        comment: Not completely processed yet
+        dbs: /QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-170to300_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-20to30_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-300to470_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        comment: Not completely processed yet
+        dbs: /QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        comment: Not completely processed yet
+        dbs: /QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-30to50_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-470to600_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-50to80_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-600to800_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-800to1000_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /QCD_Pt-80to120_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_s-channel_4f_leptonDecays_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /ST_s-channel_4f_leptonDecays_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_s-channel_4f_leptonDecays_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_t-channel_top_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        comment: Not completely processed yet
+        dbs: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1:
+        dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1:
+        dbs: /ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_tW_top_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8:
+        dbs: /ST_tW_top_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tW_top_5f_inclusiveDecays_TuneCP5_PSweights_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_tWll_5f_LO_13TeV-MadGraph-pythia8:
+        dbs: /ST_tWll_5f_LO_13TeV-MadGraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tWll_5f_LO_13TeV-MadGraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ST_tWnunu_5f_LO_13TeV-MadGraph-pythia8:
+        dbs: /ST_tWnunu_5f_LO_13TeV-MadGraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ST_tWnunu_5f_LO_13TeV-MadGraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TGJets_TuneCUETP8M1_13TeV_amcatnlo_madspin_pythia8:
+        dbs: /TGJets_TuneCUETP8M1_13TeV_amcatnlo_madspin_pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TGJets_TuneCUETP8M1_13TeV_amcatnlo_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TGJets_leptonDecays_13TeV_amcatnlo_madspin_pythia8:
+        dbs: /TGJets_leptonDecays_13TeV_amcatnlo_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TGJets_leptonDecays_13TeV_amcatnlo_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    THQ_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1:
+        comment: Not completely processed yet
+        dbs: /THQ_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /THQ_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    THW_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1:
+        dbs: /THW_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /THW_Hincl_13TeV-madgraph-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Dilept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTGamma_Dilept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Dilept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Hadronic_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Hadronic_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Hadronic_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Hadronic_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_Hadronic_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_Hadronic_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5Down_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5Up_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTGamma_SingleLept_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5_erdON_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTGamma_SingleLept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_ptGamma100-200_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTGamma_SingleLept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTGamma_SingleLept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTGamma_SingleLept_ptGamma200inf_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTTT_TuneCUETP8M2T4_13TeV-amcatnlo-pythia8:
+        dbs: /TTTT_TuneCUETP8M2T4_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTTT_TuneCUETP8M2T4_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTTo2L2Nu_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8:
+        dbs: /TTTo2L2Nu_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTTo2L2Nu_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTTo2L2Nu_noSC_TuneCUETP8M2T4_13TeV-powheg-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTTo2L2Nu_noSC_TuneCUETP8M2T4_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTTo2L2Nu_noSC_TuneCUETP8M2T4_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTToSemilepton_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8:
+        dbs: /TTToSemilepton_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-2-3_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTToSemilepton_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTWW_TuneCUETP8M2T4_13TeV-madgraph-pythia8:
+        dbs: /TTWW_TuneCUETP8M2T4_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWW_TuneCUETP8M2T4_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTWZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8:
+        dbs: /TTWZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        comment: Not completely processed yet
+        dbs: /TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTZToLLNuNu_M-10_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTZToLL_M-1to10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /TTZToLL_M-1to10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTZToLL_M-1to10_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        dbs: /TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTZToQQ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TTZZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8:
+        dbs: /TTZZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTZZ_TuneCUETP8M2T4_13TeV-madgraph-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TT_TuneCUETP8M2T4_13TeV-powheg-pythia8:
+        comment: Not completely processed yet
+        dbs: /TT_TuneCUETP8M2T4_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TT_TuneCUETP8M2T4_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_thad_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_thad_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_thad_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_thad_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_thad_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_thad_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_tlept_Whad_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_tlept_Whad_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_tlept_Whad_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_tlept_Whad_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_tlept_Whad_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_tlept_Whad_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_tlept_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_tlept_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_tlept_Wlept_5f_DR_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    TWZToLL_tlept_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8:
+        dbs: /TWZToLL_tlept_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TWZToLL_tlept_Wlept_5f_DS_TuneCP5_PSweights_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W1JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W1JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W1JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W1JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W2JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W2JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W2JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W2JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W3JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W3JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W3JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W3JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W4JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W4JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W4JetsToLNu_NuPt-200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_backup_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /W4JetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WGToLNuG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /WGToLNuG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WGToLNuG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-1200To2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-1200To2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-1200To2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        comment: Not completely processed yet
+        dbs: /WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext2-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        comment: Not completely processed yet
+        dbs: /WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-600To800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-600To800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-600To800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-70To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-70To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-70To100_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WJetsToLNu_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWTo2L2Nu_13TeV-powheg:
+        dbs: /WWTo2L2Nu_13TeV-powheg/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWTo2L2Nu_13TeV-powheg/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWTo2L2Nu_DoubleScattering_13TeV-pythia8:
+        dbs: /WWTo2L2Nu_DoubleScattering_13TeV-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWTo2L2Nu_DoubleScattering_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWTo4Q_13TeV-powheg:
+        dbs: /WWTo4Q_13TeV-powheg/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWTo4Q_13TeV-powheg/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWToLNuQQ_13TeV-powheg:
+        dbs: /WWToLNuQQ_13TeV-powheg/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWToLNuQQ_13TeV-powheg/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        dbs: /WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWW_4F_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        dbs: /WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WWZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WW_TuneCUETP8M1_13TeV-pythia8:
+        dbs: /WW_TuneCUETP8M1_13TeV-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WW_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo3LNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /WZTo3LNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo3LNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8:
+        dbs: /WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        dbs: /WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    WZ_TuneCUETP8M1_13TeV-pythia8:
+        dbs: /WZ_TuneCUETP8M1_13TeV-pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /WZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZGToLLG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZGToLLG_01J_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZGToLLG_01J_5f_lowMLL_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_5f_lowMLL_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZGToLLG_01J_5f_lowMLL_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZGToLLG_01J_LoosePtlPtg_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_LoosePtlPtg_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZGToLLG_01J_LoosePtlPtg_5f_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_HT-100To200_13TeV-madgraph:
+        comment: Not completely processed yet
+        dbs: /ZJetsToNuNu_HT-100To200_13TeV-madgraph/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_HT-100To200_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/schoef-TopNanoAODv6-1-2-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_HT-400To600_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-400To600_13TeV-madgraph/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_HT-400To600_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_HT-800To1200_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-800To1200_13TeV-madgraph/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_HT-800To1200_13TeV-madgraph/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_Zpt-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /ZJetsToNuNu_Zpt-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_Zpt-100to200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZJetsToNuNu_Zpt-200toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8:
+        dbs: /ZJetsToNuNu_Zpt-200toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZJetsToNuNu_Zpt-200toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZTo2L2Nu_13TeV_powheg_pythia8_ext1:
+        dbs: /ZZTo2L2Nu_13TeV_powheg_pythia8_ext1/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZTo2L2Nu_13TeV_powheg_pythia8_ext1/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZTo2L2Q_13TeV_powheg_pythia8:
+        dbs: /ZZTo2L2Q_13TeV_powheg_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZTo2L2Q_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /ZZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZTo2Q2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZTo4L_13TeV_powheg_pythia8:
+        dbs: /ZZTo4L_13TeV_powheg_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZTo4L_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8:
+        dbs: /ZZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ZZ_TuneCUETP8M1_13TeV-pythia8:
+        dbs: /ZZ_TuneCUETP8M1_13TeV-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ZZ_TuneCUETP8M1_13TeV-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    tZq_ll_4f_13TeV-amcatnlo-pythia8:
+        dbs: /tZq_ll_4f_13TeV-amcatnlo-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /tZq_ll_4f_13TeV-amcatnlo-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext1-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ttHToNonbb_M125_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8:
+        dbs: /ttHToNonbb_M125_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ttHToNonbb_M125_TuneCUETP8M2_ttHtranche3_13TeV-powheg-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ttHTobb_M125_13TeV_powheg_pythia8:
+        dbs: /ttHTobb_M125_13TeV_powheg_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ttHTobb_M125_13TeV_powheg_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    ttZJets_13TeV_madgraphMLM-pythia8:
+        dbs: /ttZJets_13TeV_madgraphMLM-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /ttZJets_13TeV_madgraphMLM-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016B_ver2:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016B_ver2-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016B-17Jul2018_ver2-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016C:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016C-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016C-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016D:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016D-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016D-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016E:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016E-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016E-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016F:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016F-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016F-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016G:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016G-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016G-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleEG_Run2016H:
+        dbs: /DoubleEG/schoef-TopNanoAODv6-1-2-4_DoubleEG_Run2016H-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleEG/Run2016H-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016B_ver2:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016B_ver2-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016B-17Jul2018_ver2-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016C:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016C-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016C-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016D:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016D-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016D-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016E:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016E-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016E-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna,T2_CH_CERN
+    DoubleMuon_Run2016F:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016F-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016F-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016G:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016G-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016G-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    DoubleMuon_Run2016H:
+        dbs: /DoubleMuon/schoef-TopNanoAODv6-1-2-4_DoubleMuon_Run2016H-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /DoubleMuon/Run2016H-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016B_ver2:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016B_ver2-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016B-17Jul2018_ver2-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016C:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016C-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016C-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016D:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016D-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016D-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna,T2_CH_CERN
+    MuonEG_Run2016E:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016E-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016E-17Jul2018-v2/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016F:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016F-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016F-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016G:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016G-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016G-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    MuonEG_Run2016H:
+        dbs: /MuonEG/schoef-TopNanoAODv6-1-2-4_MuonEG_Run2016H-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /MuonEG/Run2016H-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016B_ver2:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016B_ver2-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016B-17Jul2018_ver2-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna,T2_CH_CERN
+    SingleElectron_Run2016C:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016C-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016C-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016D:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016D-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016D-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016E:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016E-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016E-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016F:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016F-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016F-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016G:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016G-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016G-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleElectron_Run2016H:
+        dbs: /SingleElectron/schoef-TopNanoAODv6-1-2-4_SingleElectron_Run2016H-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleElectron/Run2016H-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016B_ver2:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016B_ver2-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016B-17Jul2018_ver2-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016C:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016C-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016C-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016D:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016D-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016D-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016E:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016E-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016E-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016F:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016F-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016F-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna,T2_CH_CERN
+    SingleMuon_Run2016G:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016G-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016G-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
+    SingleMuon_Run2016H:
+        dbs: /SingleMuon/schoef-TopNanoAODv6-1-2-4_SingleMuon_Run2016H-ba7e3129b1ff910ad1abce6981b33804/USER
+        parents:
+        - /SingleMuon/Run2016H-17Jul2018-v1/MINIAOD
+        responsible: Robert
+        site: T2_AT_Vienna
 '2017':
     ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8:
         dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/palencia-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
@@ -1268,3 +2401,909 @@
         - /QCD_Pt_250toInf_bcToE_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
+    DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-10to50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-4to50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-4to50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-4to50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-4to50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-4to50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-4to50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-4to50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-4to50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-4to50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-4to50_HT-600toInf_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-4to50_HT-600toInf_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-4to50_HT-600toInf_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-4to50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-4to50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-4to50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-100to200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-1200to2500_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-1200to2500_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-1200to2500_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-200to400_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-2500toInf_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-2500toInf_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-2500toInf_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-400to600_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-600to800_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-600to800_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-600to800_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-70to100_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_HT-800to1200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_HT-800to1200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_HT-800to1200_TuneCP5_PSweights_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /DYJetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GJets_HT-100To200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-4cores5k_102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GJets_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GJets_HT-200To400_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GJets_HT-400To600_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GJets_HT-40To100_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-40To100_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GJets_HT-40To100_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GJets_HT-600ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8:
+        dbs: /GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluHToZZTo4L_M125_13TeV_powheg2_JHUGenV7011_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v4/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8:
+        dbs: /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-120to170_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        - /QCD_Pt-120to170_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-15to20_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-170to300_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-170to300_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-20to30_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-20to30_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v4/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-300to470_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext3-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-300toInf_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-30to50_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-30to50_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-470to600_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-50to80_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-50to80_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-600to800_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-800to1000_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext3-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-80to120_EMEnriched_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8:
+        dbs: /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /QCD_Pt-80to120_MuEnrichedPt5_TuneCP5_13TeV_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8:
+        dbs: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8-ext1:
+        dbs: /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_antitop_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_antitop_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8-ext1:
+        dbs: /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_top_5f_NoFullyHadronicDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tWll_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /ST_tWll_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tWll_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ST_tWnunu_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8:
+        dbs: /ST_tWnunu_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_tWnunu_5f_LO_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TGJets_TuneCP5_13TeV_amcatnlo_madspin_pythia8:
+        dbs: /TGJets_TuneCP5_13TeV_amcatnlo_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TGJets_TuneCP5_13TeV_amcatnlo_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        - /TGJets_TuneCP5_13TeV_amcatnlo_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TGJets_leptonDecays_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TGJets_leptonDecays_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TGJets_leptonDecays_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    THQ_4f_Hincl_13TeV_madgraph_pythia8:
+        dbs: /THQ_4f_Hincl_13TeV_madgraph_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /THQ_4f_Hincl_13TeV_madgraph_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    THW_5f_Hincl_13TeV_madgraph_pythia8:
+        dbs: /THW_5f_Hincl_13TeV_madgraph_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /THW_5f_Hincl_13TeV_madgraph_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_TuneCP5Down_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5Down_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5Down_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_TuneCP5Up_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5Up_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5Up_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_TuneCP5_erdON_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_TuneCP5_erdON_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_TuneCP5_erdON_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Dilept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Dilept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Dilept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Hadronic_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Hadronic_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Hadronic_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Hadronic_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_Hadronic_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_Hadronic_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_Hadronic_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_TuneCP5Down_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5Down_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5Down_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_TuneCP5Up_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5Up_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5Up_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_TuneCP5_erdON_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_TuneCP5_erdON_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_TuneCP5_erdON_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_ptGamma100-200_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTGamma_SingleLept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTGamma_SingleLept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTGamma_SingleLept_ptGamma200inf_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTJets_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /TTJets_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTJets_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTTT_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /TTTT_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTTT_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTWW_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTWW_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWW_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTWZ_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTWZ_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWZ_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTZToLLNuNu_M-10_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTZToLL_M-1to10_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /TTZToLL_M-1to10_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTZToLL_M-1to10_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTZToQQ_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TTZZ_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /TTZZ_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTZZ_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    TT_DiLept_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /TT_DiLept_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TT_DiLept_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W1JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W1JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W1JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W2JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W2JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W2JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W3JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W3JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W3JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W3JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W4JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W4JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W4JetsToLNu_NuPt-200_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /W4JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WGToLNuG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        comment: Not completely processed yet
+        dbs: /WGToLNuG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WGToLNuG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WGToLNuG_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8:
+        dbs: /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWTo2L2Nu_DoubleScattering_13TeV-pythia8:
+        dbs: /WWTo2L2Nu_DoubleScattering_13TeV-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWTo2L2Nu_DoubleScattering_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWTo2L2Nu_NNPDF31_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /WWTo2L2Nu_NNPDF31_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWTo2L2Nu_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWTo4Q_NNPDF31_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /WWTo4Q_NNPDF31_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWTo4Q_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWToLNuQQ_NNPDF31_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /WWToLNuQQ_NNPDF31_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWToLNuQQ_NNPDF31_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWW_4F_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WWZ_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /WWZ_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WWZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WW_TuneCP5_13TeV-pythia8:
+        dbs: /WW_TuneCP5_13TeV-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WW_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        - /WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZTo3LNu_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /WZTo3LNu_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZTo3LNu_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZZ_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    WZ_TuneCP5_13TeV-pythia8:
+        dbs: /WZ_TuneCP5_13TeV-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /WZ_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v3/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZGToLLG_01J_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZGToLLG_01J_5f_lowMLL_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_5f_lowMLL_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZGToLLG_01J_5f_lowMLL_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZGToLLG_01J_LoosePtlPtg_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZGToLLG_01J_LoosePtlPtg_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZGToLLG_01J_LoosePtlPtg_5f_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-100To200_13TeV-madgraph:
+        comment: Not completely processed yet
+        dbs: /ZJetsToNuNu_HT-100To200_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-100To200_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-1200To2500_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-1200To2500_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-1200To2500_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-200To400_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-200To400_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-200To400_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-2500ToInf_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-400To600_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-400To600_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-400To600_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-600To800_13TeV-madgraph:
+        comment: Not completely processed yet
+        dbs: /ZJetsToNuNu_HT-600To800_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-600To800_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZJetsToNuNu_HT-800To1200_13TeV-madgraph:
+        dbs: /ZJetsToNuNu_HT-800To1200_13TeV-madgraph/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZJetsToNuNu_HT-800To1200_13TeV-madgraph/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8:
+        dbs: /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZTo2L2Nu_TuneCP5_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZTo2Q2Nu_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8:
+        dbs: /ZZTo2Q2Nu_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZTo2Q2Nu_TuneCP5_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZTo4L_TuneCP5_13TeV-amcatnloFXFX-pythia8:
+        dbs: /ZZTo4L_TuneCP5_13TeV-amcatnloFXFX-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZTo4L_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZTo4L_TuneCP5_13TeV_powheg_pythia8:
+        dbs: /ZZTo4L_TuneCP5_13TeV_powheg_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZTo4L_TuneCP5_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZZ_TuneCP5_13TeV-amcatnlo-pythia8:
+        dbs: /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZZ_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ZZ_TuneCP5_13TeV-pythia8:
+        dbs: /ZZ_TuneCP5_13TeV-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ZZ_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-madgraph-pythia8:
+        dbs: /tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-madgraph-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /tZq_ll_4f_ckm_NLO_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ttHToNonbb_M125_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ttHToNonbb_M125_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ttHToNonbb_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ttHTobb_ttTo2L2Nu_M125_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ttHTobb_ttTo2L2Nu_M125_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ttHTobb_ttTo2L2Nu_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ttHTobb_ttToSemiLep_M125_TuneCP5_13TeV-powheg-pythia8:
+        dbs: /ttHTobb_ttToSemiLep_M125_TuneCP5_13TeV-powheg-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ttHTobb_ttToSemiLep_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ttWJets_TuneCP5_13TeV_madgraphMLM_pythia8:
+        dbs: /ttWJets_TuneCP5_13TeV_madgraphMLM_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ttWJets_TuneCP5_13TeV_madgraphMLM_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    ttZJets_TuneCP5_13TeV_madgraphMLM_pythia8:
+        dbs: /ttZJets_TuneCP5_13TeV_madgraphMLM_pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ttZJets_TuneCP5_13TeV_madgraphMLM_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
+        responsible: Barbara
+        site: T2_ES_IFCA
+    DoubleMuon_Run2018ABC:
+        dbs: /DoubleMuon/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /DoubleMuon/Run2018A-17Sep2018-v2/MINIAOD
+        - /DoubleMuon/Run2018B-17Sep2018-v1/MINIAOD
+        - /DoubleMuon/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    DoubleMuon_Run2018D:
+        dbs: /DoubleMuon/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /DoubleMuon/Run2018D-PromptReco-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    EGamma_Run2018ABC:
+        comment: Not completely processed yet
+        dbs: /EGamma/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /EGamma/Run2018A-17Sep2018-v2/MINIAOD
+        - /EGamma/Run2018B-17Sep2018-v1/MINIAOD
+        - /EGamma/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    EGamma_Run2018D:
+        comment: Not completely processed yet
+        dbs: /EGamma/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /EGamma/Run2018D-22Jan2019-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    JetHT_Run2018ABC:
+        comment: Not completely processed yet
+        dbs: /JetHT/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /JetHT/Run2018A-17Sep2018-v1/MINIAOD
+        - /JetHT/Run2018B-17Sep2018-v1/MINIAOD
+        - /JetHT/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    JetHT_Run2018D:
+        comment: Not completely processed yet
+        dbs: /JetHT/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /JetHT/Run2018D-PromptReco-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    MET_Run2018ABC:
+        dbs: /MET/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /MET/Run2018A-17Sep2018-v1/MINIAOD
+        - /MET/Run2018B-17Sep2018-v1/MINIAOD
+        - /MET/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    MET_Run2018D:
+        comment: Not completely processed yet
+        dbs: /MET/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /MET/Run2018D-PromptReco-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    MuonEG_Run2018ABC:
+        dbs: /MuonEG/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /MuonEG/Run2018A-17Sep2018-v1/MINIAOD
+        - /MuonEG/Run2018B-17Sep2018-v1/MINIAOD
+        - /MuonEG/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    MuonEG_Run2018D:
+        dbs: /MuonEG/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /MuonEG/Run2018D-PromptReco-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    SingleMuon_Run2018ABC:
+        comment: Not completely processed yet
+        dbs: /SingleMuon/palencia-TopNanoAODv6-1-2_2018-2667fe41f354e79b08df8a25806ccf17/USER
+        parents:
+        - /SingleMuon/Run2018A-17Sep2018-v2/MINIAOD
+        - /SingleMuon/Run2018B-17Sep2018-v1/MINIAOD
+        - /SingleMuon/Run2018C-17Sep2018-v1/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
+    SingleMuon_Run2018D:
+        dbs: /SingleMuon/palencia-TopNanoAODv6-1-2_2018-831765d0aa9cd559fee11ff659127d4e/USER
+        parents:
+        - /SingleMuon/Run2018D-22Jan2019-v2/MINIAOD
+        responsible: Enrique
+        site: T2_CH_CERN
