@@ -575,6 +575,28 @@
         - /TTWJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3_ext2-v1/MINIAODSIM
         responsible: Robert
         site: T2_AT_Vienna
+    TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_EWK_5f_NLO:
+        dbs: /TTWJetsToLNu_EWK_5f_NLO/piedavid-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        responsible: Pieter
+        site: T2_BE_UCL
     TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8:
         dbs: /TTWJetsToQQ_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
         parents:
@@ -1765,6 +1787,28 @@
         - /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
         responsible: Pieter
         site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_new_pmx_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR1_QCDbased_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR2_GluonMove_PSweights_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_EWK_5f_NLO:
+        dbs: /TTWJetsToLNu_EWK_5f_NLO/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
+        responsible: Pieter
+        site: T2_BE_UCL
     TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8:
         dbs: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-1_2017-a11761155c05d04d6fed5a2401fa93e8/USER
         parents:
@@ -2690,6 +2734,12 @@
         - /ST_s-channel_4f_leptonDecays_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v3/MINIAODSIM
         responsible: Barbara
         site: T2_ES_IFCA
+    ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8:
+        dbs: /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/schoef-TopNanoAODv6-1-2-6_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM
+        responsible: Robert
+        site: T2_CH_CERN
     ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8:
         dbs: /ST_t-channel_antitop_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
         parents:
@@ -2865,6 +2915,22 @@
         - /TTWJetsToLNu_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM
         responsible: Barbara
         site: T2_ES_IFCA
+    TTWJetsToLNu_TuneCP5CR1_QCDbased_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR1_QCDbased_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR1_QCDbased_13TeV-amcatnloFXFX-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_TuneCP5CR2_GluonMove_13TeV-amcatnloFXFX-madspin-pythia8:
+        dbs: /TTWJetsToLNu_TuneCP5CR2_GluonMove_13TeV-amcatnloFXFX-madspin-pythia8/piedavid-TopNanoAODv6-1-2_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        parents:
+        - /TTWJetsToLNu_TuneCP5CR2_GluonMove_13TeV-amcatnloFXFX-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM
+        responsible: Pieter
+        site: T2_BE_UCL
+    TTWJetsToLNu_EWK_5f_NLO:
+        dbs: /TTWJetsToLNu_EWK_5f_NLO/piedavid-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
+        responsible: Pieter
+        site: T2_BE_UCL
     TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8:
         dbs: /TTWJetsToQQ_TuneCP5_13TeV-amcatnloFXFX-madspin-pythia8/balvarez-TopNanoAODv6-1-1_2018-0d1d4920f08f56d048ece029b873a2cc/USER
         parents:
