@@ -1,8 +1,0 @@
-language: python
-cache: pip
-python:
-    - 3.8
-install:
-    - pip install PyYAML
-script:
-    - python loadYAML_checkDuplicates.py
