@@ -217,41 +217,41 @@
         responsible: Robert
         site: T2_AT_Vienna
     GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-2-6_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo2e2mu_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo2e2tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo2mu2tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo4e_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo4mu_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8:
-        dbs: /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/schoef-TopNanoAODv6-1-1_2016-88146d75cb10601530484643de5f7795/USER
+        dbs: /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/piedavid-TopNanoAODv6-1-2_2016-88146d75cb10601530484643de5f7795/USER
         parents:
         - /GluGluToContinToZZTo4tau_13TeV_MCFM701_pythia8/RunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v2/MINIAODSIM
-        responsible: Robert
-        site: T2_AT_Vienna
+        responsible: Pieter
+        site: T2_BE_UCL
     QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8:
         dbs: /QCD_Pt-1000toInf_MuEnrichedPt5_TuneCUETP8M1_13TeV_pythia8/schoef-TopNanoAODv6-1-2-6_2016_ext1-88146d75cb10601530484643de5f7795/USER
         parents:
